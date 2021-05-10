@@ -1,0 +1,3 @@
+include ':sdkGit'
+include ':app'
+rootProject.name='ApiGitHub'
